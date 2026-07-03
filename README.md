@@ -2,16 +2,6 @@
 
 # Nurullo Musajanov
 
-<a href="https://github.com/nm-backend" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-nm--backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.linkedin.com/in/nurullo-musajanov-040b31337/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-<a href="https://t.me/nm_2110" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram contact" />
-</a>
-
 <br />
 
 ![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=36&duration=2500&pause=1000&color=ffffff&center=true&width=900&height=90&lines=Python+Backend+Developer;Django+Developer;REST+API+Enthusiast)
