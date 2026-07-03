@@ -79,19 +79,19 @@ Keep screenshots focused on app UI or API responses and avoid sensitive data.
 <div align="center">
 
 <!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" />
 
 <!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" />
 
 <!-- Summary & trophies -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" alt="Profile summary" />
-<img src="https://github-profile-trophy.vercel.app/?username=nm-backend&theme=dark" alt="GitHub trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=nm-backend&theme=dark" />
 
 <!-- Contributions & activity -->
 <img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-backend&theme=dark&hide_border=true" alt="GitHub streak stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nm-backend&theme=react-dark" alt="Activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-backend&theme=dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nm-backend&theme=react-dark" />
 
 </div>
 
